@@ -37,7 +37,7 @@ The ESE-GB-DNN program can be run from the command line as follows:</p>
 <tt><b>ESE-GB-DNN.exe <i>xyz-file</i> -charge <i>charge</i> -solvent <i>solvent</i></b></tt></p>
 
 <p style='margin-top:12pt;margin-bottom:0pt'>
-If your solvent is not in this <a href="https://github.com/vyboishchikov/ESE-EE-DNN/blob/main/solvent-list.html">list</a>, you can use the following call format:</p>
+If your solvent is not in this <a href="https://github.com/vyboishchikov/ESE-GB-DNN/blob/main/solvent-list.html">list</a>, you can use the following call format:</p>
 
 <p style='margin-top:6pt;margin-bottom:12pt'><tt><b>ESE-GB-DNN.exe <i>xyz-file</i> -charge <i> charge</i> -Eps  <i>dielectric_constant</i> -BP <i>boiling_point_&deg;C</i> -Nheavy <i> number_of_non_hydrogen_atoms_in_solvent</i></b>
 </tt></p>
