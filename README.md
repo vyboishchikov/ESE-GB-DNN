@@ -49,7 +49,8 @@ Once you use results calculated by the ESE-GB-DNN program, you should include at
 <b>1</b>. S. F. Vyboishchikov, <i>ESE-GB-DNN program</i>, Girona, <b>2023</b></p>
 
 <p style='margin:0cm;margin-bottom:12pt'>
-<b>2</b>. S. F. Vyboishchikov, <i>J. Chem. Theory Comput</i>., <b>2023</b>, <i>accepted</i>. DOI: 10.1021/acs.jctc.3c00858
+<b>2</b>. S. F. Vyboishchikov, <i>J. Chem. Theory Comput</i>., <b>2023</b>, <i>in press</i>.
+<a href="https://doi.org/10.1021/acs.jctc.3c00858">DOI: 10.1021/acs.jctc.3c00858</a></p>
 <p style='margin-bottom:0pt'>
 
 and preferably also cite our previous related work:</p>
