@@ -28,7 +28,7 @@ The ESE-GB-DNN solvation free energy can be calculated by the program ESE-GB-DNN
 
 <p style='margin:0cm;margin-bottom:0pt'>
 <a href="https://github.com/vyboishchikov/ESE-GB-DNN/blob/main/ESE-GB-DNN.exe">ESE-GB-DNN.exe</a> &ndash; Windows version</p>
-<a href="https://github.com/vyboishchikov/ESE-GB-DNN/blob/main/ESE-GB-DNN.x">ESE-GB-DNN.exe</a> &ndash; Linux version.</p>
+<a href="https://github.com/vyboishchikov/ESE-GB-DNN/blob/main/ESE-GB-DNN.x">ESE-GB-DNN.x</a> &ndash; Linux version.</p>
 
 <p style='margin:0cm;margin-top:12pt'>
 The ESE-GB-DNN program can be run from the command line as follows:</p>
