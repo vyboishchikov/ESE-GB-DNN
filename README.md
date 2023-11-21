@@ -14,7 +14,7 @@ Subsequently, the Born-type terms, atomic surfaces and volumes are evaluated
 and, along with  three solvent features, are fed into a <i>Dense Neural 
 Network</i> that eventually yields the solvation free energy.</p>
 
-<p>The ESE-GB-DNN scheme is more efficient than 
+<p>The present <b>ESE-GB-DNN</b> scheme is more efficient than 
 <a href="https://github.com/vyboishchikov/ESE-EE-DNN">ESE-EE-DNN</a> [3], 
 since no explicit molecular surface needs to be constructed. It is inspired by the
 ESE-EE scheme [4], which is in turn based on the
