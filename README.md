@@ -7,12 +7,12 @@
 <h2>Introduction and User's Guide</h2>
 
 <p><i>ESE-GB-DNN</i> is a method for evaluation of <b>solvation free 
-energies</b> of molecules and ions [2]. It requires the solute molecular 
-geometry and the total charge only. To obtain the solvation free energy, first 
-<i>electronegativity-equalization</i> atomic charges are calculated. 
-Subsequently, the Born-type terms, atomic surfaces and volumes are evaluated 
-and, along with  three solvent features, are fed into a <i>Dense Neural 
-Network</i> that eventually yields the solvation free energy.</p>
+energies</b> of molecules and ions [2] both in aqueous and non-aqueous solutions.
+It requires the solute molecular geometry and the total charge only. To obtain
+the solvation free energy, first <i>electronegativity-equalization</i> atomic
+charges are calculated. Subsequently, the Born-type terms, atomic surfaces and
+volumes are evaluated and, along with  three solvent features, are fed into a
+<i>Dense Neural Network</i> that eventually yields the solvation free energy.</p>
 
 <p>The present <b>ESE-GB-DNN</b> scheme is more efficient than 
 <a href="https://github.com/vyboishchikov/ESE-EE-DNN">ESE-EE-DNN</a> [3], 
@@ -49,7 +49,7 @@ Once you use results calculated by the ESE-GB-DNN program, you should include at
 <b>1</b>. S. F. Vyboishchikov, <i>ESE-GB-DNN program</i>, Girona, <b>2023</b></p>
 
 <p style='margin:0cm;margin-bottom:12pt'>
-<b>2</b>. S. F. Vyboishchikov, <i>J. Chem. Theory Comput</i>., <b>2023</b>, <i>in press</i>.
+<b>2</b>. S. F. Vyboishchikov, <i>J. Chem. Theory Comput</i>., <b>2023</b>, <i>19</i>, 8340&ndash;8350.
 <a href="https://doi.org/10.1021/acs.jctc.3c00858">DOI: 10.1021/acs.jctc.3c00858</a></p>
 <p style='margin-bottom:0pt'>
 
