@@ -7,11 +7,11 @@
 <h2>Introduction and User's Guide</h2>
 
 <p><i>ESE-GB-DNN</i> is a method for evaluation of <b>solvation free 
-energies</b> of molecules and ions [2] both in aqueous and non-aqueous solutions.
+energies</b> of molecules and ions both in aqueous and non-aqueous solutions [2].
 It requires the solute molecular geometry and the total charge only. To obtain
 the solvation free energy, first <i>electronegativity-equalization</i> atomic
 charges are calculated. Subsequently, the Born-type terms, atomic surfaces and
-volumes are evaluated and, along with  three solvent features, are fed into a
+volumes are evaluated and, along with three solvent features, are fed into a
 <i>Dense Neural Network</i> that eventually yields the solvation free energy.</p>
 
 <p>The present <b>ESE-GB-DNN</b> scheme is more efficient than 
