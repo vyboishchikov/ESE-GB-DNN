@@ -24,7 +24,8 @@ developed jointly with Alexander Voityuk.</p>
 <p>The supported elements are H, C, N, O, F, Si, P, S, Cl, Br, I.</p>
 
 <p style='margin-top:12pt;margin-bottom:0cm'>
-The ESE-GB-DNN solvation free energy can be calculated by the program ESE-GB-DNN, which can be downloaded here free of charge:</p>
+The ESE-GB-DNN solvation free energy can be calculated by the program ESE-GB-DNN,
+which can be downloaded here free of charge:</p>
 
 <p style='margin:0cm;margin-bottom:0pt'>
 <a href="https://github.com/vyboishchikov/ESE-GB-DNN/blob/main/ESE-GB-DNN.exe">ESE-GB-DNN.exe</a> &ndash; Windows version</p>
@@ -41,6 +42,10 @@ If your solvent is not in this <a href="https://github.com/vyboishchikov/ESE-EE-
 
 <p style='margin-top:6pt;margin-bottom:12pt'><tt><b>ESE-GB-DNN.exe <i>xyz-file</i> -charge <i> charge</i> -Eps  <i>dielectric_constant</i> -BP <i>boiling_point_&deg;C</i> -Nheavy <i> number_of_non_hydrogen_atoms_in_solvent</i></b>
 </tt></p>
+
+<p><i><b>Warning:</b></i> The xyz-file should contain atomic symbols (or numbers) and 
+Cartesian coordinates (in &#8491;) and an empty line at the end. It should not contain
+any header.
 
 <p style='margin:0cm'>
 Once you use results calculated by the ESE-GB-DNN program, you should include at least the following citations:</p>
